@@ -1,198 +1,198 @@
-﻿Dis No,Year,Disaster Type,Disaster Subtype,Country,Region,Continent,Associated Dis,Associated Dis2,Dis Mag Value,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,Total Damages ('000 US$),"Total Damages, Adjusted ('000 US$)",CPI
-2002-0122-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,150,13,3500,,3513,,,66.3819637
-2002-0175-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,1000,1228,80000,10000,91228,,,66.3819637
-2002-0208-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,50,150,6000,,6150,,,66.3819637
-2002-0643-IDN,2002,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",Tsunami/Tidal wave,8,8,632,8450,,9082,,,66.3819637
-2002-0584-IND,2002,Earthquake,Ground movement,India,Southern Asia,Asia,Tsunami/Tidal wave,,7,2,,,200,200,,,66.3819637
-2002-0512-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,48,2500,,2548,,,66.3819637
-2002-0820-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,155,,155,,,66.3819637
-2002-0822-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,60,,,60,,,66.3819637
-2002-0107-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,1,30,750,,780,,,66.3819637
-2002-0246-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,2,56,20000,,20056,,,66.3819637
-2002-0378-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,227,1300,110000,,111300,300000,451930,66.3819637
-2002-0804-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,15,15000,,15015,,,66.3819637
-2002-0821-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,5,,,5,,,66.3819637
-2003-0069-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,2,2500,,2502,,,67.88889569
-2003-0068-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,80,6750,3250,10080,,,67.88889569
-2002-0692-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,5,17,65,11000,4000,15065,,,66.3819637
-2002-0721-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,19,40,140742,,140782,,,66.3819637
-2002-0129-PHL,2002,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,15,100,73351,,73451,1714,2582,66.3819637
-2002-0122-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,3,,,,,,,66.3819637
-2003-0236-AFG,2003,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,5,1,1,,1000,1001,,,67.88889569
-2004-0436-AFG,2004,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,2,40,,1000,1040,,,69.70644216
-2003-0452-BGD,2003,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,2,25,2500,,2525,,,67.88889569
-2003-0254-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,1,7,100,140,247,,,67.88889569
-2003-0414-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,500,,500,,,67.88889569
-2003-0322-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,1,1090,,1091,,,67.88889569
-2003-0438-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,25,,17500,17525,21666,31914,67.88889569
-2003-0630-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,26796,22628,200000,45000,267628,500000,736497,67.88889569
-2003-0649-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,5,710,10,725,,,67.88889569
-2004-0040-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Fire,,7,37,682,13390,,14072,1000,1435,69.70644216
-2004-0607-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Fire,,7,32,213,12620,,12833,55000,78902,69.70644216
-2004-0562-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,8,33,311,83070,,83381,,,69.70644216
-2004-0234-IRN,2004,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,35,278,220,,498,165000,236707,69.70644216
-2004-0659-IDN,2004,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,165708,,,532898,532898,4451600,6386210,69.70644216
-2004-0659-BGD,2004,Earthquake,Tsunami,Bangladesh,Southern Asia,Asia,,,9,2,,,,,500000,717294,69.70644216
-2004-0001-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,40,30000,,30040,12000,17215,69.70644216
-2004-0088-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,5,7,500,,507,,,69.70644216
-2004-0659-IND,2004,Earthquake,Tsunami,India,Southern Asia,Asia,,,9,16389,6913,647599,,654512,1022800,1467296,69.70644216
-2004-0659-LKA,2004,Earthquake,Tsunami,Sri Lanka,Southern Asia,Asia,,,9,35399,23176,516130,480000,1019306,1316500,1888635,69.70644216
-2005-0160-IDN,2005,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,915,1146,104167,,105313,,,72.07141045
-2005-0031-IDN,2005,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,4,680,,684,,,72.07141045
-2005-0016-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,110,,,110,,,72.07141045
-2005-0092-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,612,1411,93355,,94766,80000,111001,72.07141045
-2004-0054-PAK,2004,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,24,63,10765,2320,13148,,,69.70644216
-2004-0659-MDV,2004,Earthquake,Tsunami,Maldives,Southern Asia,Asia,Tsunami/Tidal wave,,9,102,2214,12000,13000,27214,470100,674400,69.70644216
-2004-0659-MYS,2004,Earthquake,Tsunami,Malaysia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,80,767,,4296,5063,500000,717294,69.70644216
-2004-0659-THA,2004,Earthquake,Tsunami,Thailand,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,8345,8457,58550,,67007,1000000,1434588,69.70644216
-2004-0659-MMR,2004,Earthquake,Tsunami,Myanmar,South-Eastern Asia,Asia,,,9,71,,12500,3200,15700,500000,717294,69.70644216
-2005-0575-AFG,2005,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,8,1,,,,,50,69,72.07141045
-2005-0686-AFG,2005,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,7,5,1,500,,501,,,72.07141045
-2006-0405-AFG,2006,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,1,,740,195,935,,,74.39638749
-2005-0575-IND,2005,Earthquake,Ground movement,India,Southern Asia,Asia,Fire,,8,1309,6622,,150000,156622,1000000,1387513,72.07141045
-2005-0654-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,13,100,,,100,,,72.07141045
-2005-0738-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,,21912,,21912,,,72.07141045
-2006-0678-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,8,200,1000,,1200,,,74.39638749
-2006-0231-IDN,2006,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,3,2,1200,,1202,,,74.39638749
-2006-0279-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,5778,137883,2340745,699295,3177923,3100000,4166869,74.39638749
-2006-0705-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,14,,100,114,,,74.39638749
-2006-0372-IDN,2006,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,,,8,802,543,35000,,35543,55000,73928,74.39638749
-2006-0123-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,6,7000,,7006,,,74.39638749
-2006-0153-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,63,1418,160000,,161418,42262,56807,74.39638749
-2006-0239-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,70,,,70,,,74.39638749
-2005-0575-PAK,2005,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,73338,128309,,5000000,5128309,5200000,7215066,72.07141045
-2007-0440-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,25,82,422685,36800,459567,500000,653435,76.5186792
-2007-0087-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,67,826,136834,,137660,200000,261374,76.5186792
-2007-0485-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,,19,450,,469,,,76.5186792
-2007-0565-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,1800,20000,,21800,,,76.5186792
-2008-0071-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,25,,,25,,,79.4563044
-2008-0403-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,2,60,565,,625,,,79.4563044
-2008-0536-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,6,77,10000,,10077,,,79.4563044
-2009-0156-AFG,2009,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,22,59,,3250,3309,,,79.17380276
-2009-0001-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,8,5,250,4000,,4250,10000,12630,79.17380276
-2009-0112-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,64,2985,,3049,9000,11367,79.17380276
-2008-0500-PAK,2008,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,166,320,75000,,75320,10000,12586,79.4563044
-2008-0178-IRN,2008,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,170,,,170,,,79.4563044
-2008-0401-IRN,2008,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,45,20500,,20545,,,79.4563044
-2009-0421-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",Tsunami/Tidal wave,7,1195,1798,2500000,,2501798,2200000,2778697,79.17380276
-2009-0354-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,128,1442,338350,,339792,160000,202087,79.17380276
-2009-0406-BTN,2009,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,8,11,12,,,12,,,79.17380276
-2009-0479-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,8,2,100,1410,,1510,2430,3069,79.17380276
-2009-0493-IRN,2009,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,269,,,269,,,79.17380276
-2010-0669-AFG,2010,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,11,70,,1000,1070,,,80.47228515
-2010-0238-IDN,2010,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,17,,,4600,4600,,,80.47228515
-2010-0563-IDN,2010,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,530,412,11452,,11864,,,80.47228515
-2010-0018-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,,750,,750,,,80.47228515
-2010-0361-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,274,,,274,,,80.47228515
-2010-0363-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,32,,,32,,,80.47228515
-2010-0591-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,104,,,104,,,80.47228515
-2010-0645-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,7,25,,,25,,,80.47228515
-2010-0672-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,3,100,,3500,3600,,,80.47228515
-2011-0082-IDN,2011,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,1,,,95,95,,,83.01267439
-2009-0404-PHL,2009,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,2,380,10,392,90,114,79.17380276
-2011-0090-MMR,2011,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,,,7,74,125,18000,3152,21277,3600,4337,83.01267439
-2011-0104-PAK,2011,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,2,,1000,,1000,,,83.01267439
-2011-0090-THA,2011,Earthquake,Ground movement,Thailand,South-Eastern Asia,Asia,,,7,1,16,,,16,,,83.01267439
-2011-0351-IND,2011,Earthquake,Ground movement,India,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,7,112,200,500000,75000,575200,,,83.01267439
-2011-0351-BTN,2011,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,7,1,16,20000,,20016,,,83.01267439
-2011-0389-IDN,2011,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,10,,,,,5850,7047,83.01267439
-2012-0164-AFG,2012,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,73,2,,235,237,,,84.7304789
-2012-0097-IDN,2012,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,9,7,107,,,107,,,84.7304789
-2012-0398-IDN,2012,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,6,43,5485,2355,7883,,,84.7304789
-2012-0049-IND,2012,Mass movement (dry),Avalanche,India,Southern Asia,Asia,,,,16,,,,,,,84.7304789
-2013-0235-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,48,2532,53403,,55935,130000,151213,85.97164225
-2013-0151-AFG,2013,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,18,141,3390,,3531,,,85.97164225
-2013-0020-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,15,500,,515,,,85.97164225
-2013-0436-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,1,3,2735,,2738,,,85.97164225
-2013-0140-IND,2013,Earthquake,Ground movement,India,Southern Asia,Asia,,,6,3,70,59280,,59350,120000,139581,85.97164225
-2011-0351-NPL,2011,Earthquake,Ground movement,Nepal,Southern Asia,Asia,,,7,7,89,167860,,167949,,,83.01267439
-2011-0445-PHL,2011,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,5,,3,25,,28,,,83.01267439
-2012-0417-MMR,2012,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,38,231,1255,,1486,1170,1381,84.7304789
-2012-0031-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,113,112,320165,,320277,8900,10504,84.7304789
-2012-0275-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,306,2006,59540,,61546,500000,590106,84.7304789
-2012-0502-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,23,5500,,5523,,,84.7304789
-2012-0597-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,238,,,238,,,84.7304789
-2012-0321-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,1,4000,,4001,,,84.7304789
-2012-0431-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,8,1,10,28869,,28879,3244,3829,84.7304789
-2013-0098-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,37,850,3500,,4350,600000,697905,85.97164225
-2013-0099-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,8,,27,,,27,,,85.97164225
-2013-0516-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,8,120,,1500,1620,,,85.97164225
-2013-0099-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,41,175,15000,,15175,,,85.97164225
-2013-0381-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,399,599,185150,,185749,100000,116317,85.97164225
-2013-0484-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,22,50,,,50,,,85.97164225
-2013-0395-PHL,2013,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,230,976,3221248,,3222224,51459,59856,85.97164225
-2015-0476-AFG,2015,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,8,115,58080,,34645,92725,,,87.46993221
-2015-0571-AFG,2015,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,,12,,395,407,,,87.46993221
-2015-0144-BGD,2015,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,,,8,4,200,,,200,,,87.46993221
-2016-0002-BGD,2016,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,,,7,5,70,,,70,,,88.57345288
-2014-0054-IRN,2014,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,1,30,300,,330,2000,2289,87.36629784
-2014-0287-IRN,2014,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,250,,12000,12250,43000,49218,87.36629784
-2014-0159-THA,2014,Earthquake,Ground movement,Thailand,South-Eastern Asia,Asia,,,6,1,23,17500,,17523,62000,70966,87.36629784
-2015-0216-MYS,2015,Earthquake,Ground movement,Malaysia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,24,10,,,10,2,2,87.46993221
-2015-0144-NPL,2015,Earthquake,Ground movement,Nepal,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,8,8831,17932,5621790,,5639722,5174000,5915176,87.46993221
-2015-0175-NPL,2015,Earthquake,Ground movement,Nepal,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,7,138,2428,,,2428,,,87.46993221
-2015-0415-IDN,2015,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,62,12185,,12247,,,87.46993221
-2015-0144-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,8,78,560,,,560,,,87.46993221
-2015-0175-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,7,20,,,,,,,87.46993221
-2015-0476-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,8,,10,,,10,,,87.46993221
-2015-0476-PAK,2015,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,280,1745,366945,133900,502590,,,87.46993221
-2015-0571-PAK,2015,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,3,85,,,85,,,87.46993221
-2015-0454-PAK,2015,Mass movement (dry),Rockfall,Pakistan,Southern Asia,Asia,,,,13,,,,,,,87.46993221
-2016-0019-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,8,360,,368,,,88.57345288
-2016-0002-IND,2016,Earthquake,Ground movement,India,Southern Asia,Asia,,,7,8,308,10500,,10808,75000,84675,88.57345288
-2016-0100-PAK,2016,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,6,42,100,,142,,,88.57345288
-2015-0608-TLS,2015,Earthquake,Ground movement,Timor-Leste,South-Eastern Asia,Asia,,,7,,3,,2000,2003,4000,4573,87.46993221
-2016-0458-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,3410,,3410,,,88.57345288
-2016-0475-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,104,857,85161,,86018,100000,112901,88.57345288
-2016-0383-MMR,2016,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,,,7,4,2,1150,,1152,10000,11290,88.57345288
-2016-0537-PHL,2016,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,8,202,,,202,,,88.57345288
-2017-0140-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,,,25000,,25000,2000,2211,90.46017931
-2017-0530-IDN,2017,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,4,36,8859,,8895,,,90.46017931
-2017-0204-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,3,417,,1845,2262,2000,2211,90.46017931
-2017-0446-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,444,9000,200000,,209000,740000,818040,90.46017931
-2017-0521-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,2,120,,,120,,,90.46017931
-2017-0050-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,8,202,16655,,16857,13974,15448,90.46017931
-2017-0247-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,3,448,16052,,16500,4364,4824,90.46017931
-2018-0352-IDN,2018,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,Liquefaction,8,4140,,2000000,,2000000,1450000,1564697,92.6696698
-2018-0257-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,564,1584,445343,70000,516927,790000,852490,92.6696698
-2018-0031-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,11,13800,,13811,80000,86328,92.6696698
-2018-0254-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,14,135,102717,,102852,29000,31294,92.6696698
-2018-0302-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,10,24,755,,779,5000,5396,92.6696698
-2018-0281-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,287,4755,,5042,10000,10791,92.6696698
-2018-0310-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,2,255,10000,3000,13255,,,92.6696698
-2018-0426-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,716,,,716,10000,10791,92.6696698
-2018-0154-MMR,2018,Mass movement (dry),Landslide,Myanmar,South-Eastern Asia,Asia,,,,17,,,,,,,92.6696698
-2019-0085-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,,48,1715,,1763,,,94.3490925
-2019-0109-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,9,45,1250,,1295,,,94.3490925
-2019-0162-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,25,282,15273,,15555,50000,52995,94.3490925
-2021-0225-BTN,2021,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,6,,2,500,,502,,,100
-2022-0027-AFG,2022,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,28,4,,4000,4004,,,
-2019-0334-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,8,134,5790,5880,11804,,,94.3490925
-2019-0377-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,6,4,2100,,2104,,,94.3490925
-2019-0451-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,31,179,247239,,247418,,,94.3490925
-2019-0299-IRN,2019,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,100,,2000,2100,,,94.3490925
-2019-0553-IRN,2019,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,584,22500,,23084,90000,95390,94.3490925
-2019-0460-PAK,2019,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,39,746,129652,,130398,17000,18018,94.3490925
-2019-0356-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,52,9525,,9577,,,94.3490925
-2019-0362-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,9,64,2963,,3027,5258,5573,94.3490925
-2019-0489-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,7,215,3068,,3283,,,94.3490925
-2019-0522-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,10,395,25630,,26025,,,94.3490925
-2019-0529-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,23,417,260286,,260703,,,94.3490925
-2019-0619-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,14,210,394355,,394565,,,94.3490925
-2020-0225-IDN,2020,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,1490,70,1560,,,95.51296742
-2020-0073-IRN,2020,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,75,15000,,15075,,,95.51296742
-2020-0370-PHL,2020,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,1,20,4255,705,4980,2500,2617,95.51296742
-2021-0003-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,110,826,99827,,100653,58700,58700,100
-2021-0654-PAK,2021,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,21,300,63800,,64100,,,100
-2021-0323-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,6,,,750,,750,,,100
-2021-0200-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,9,39,5520,420,5979,,,100
-2021-0720-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,3,82,2620,1830,4532,,,100
-2021-0801-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,7,1730,,1737,,,100
-2021-0225-IND,2021,Earthquake,Ground movement,India,Southern Asia,Asia,,,6,2,10,3000,,3010,,,100
-2021-0095-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,2,63,24291,,24354,10000,10000,100
-2021-0215-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,6,3537,,3543,,,100
-2021-0738-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,104,36484,,36588,165000,165000,100
-2021-0829-LAO,2021,Earthquake,Ground movement,Lao People's Democratic Republic (the),South-Eastern Asia,Asia,,,6,,,,,,120,120,100
-2022-0012-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,2,300,,302,,,
-2022-0042-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,1975,13415,,15390,,,
-2022-0115-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,15,388,24000,515,24903,,,
+﻿Dis No,Year,Disaster Type,Disaster Subtype,Country,Region,Continent,Associated Dis,Associated Dis2,Dis Mag Value,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,"Total Damages, Adjusted ('000 US$)",CPI
+2002-0122-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,150,13,3500,,3513,,66.3819637
+2002-0175-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,1000,1228,80000,10000,91228,,66.3819637
+2002-0208-AFG,2002,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,50,150,6000,,6150,,66.3819637
+2002-0643-IDN,2002,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",Tsunami/Tidal wave,8,8,632,8450,,9082,,66.3819637
+2002-0584-IND,2002,Earthquake,Ground movement,India,Southern Asia,Asia,Tsunami/Tidal wave,,7,2,,,200,200,,66.3819637
+2002-0512-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,48,2500,,2548,,66.3819637
+2002-0820-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,155,,155,,66.3819637
+2002-0822-IDN,2002,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,60,,,60,,66.3819637
+2002-0107-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,1,30,750,,780,,66.3819637
+2002-0246-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,2,56,20000,,20056,,66.3819637
+2002-0378-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,227,1300,110000,,111300,451930,66.3819637
+2002-0804-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,15,15000,,15015,,66.3819637
+2002-0821-IRN,2002,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,5,,,5,,66.3819637
+2003-0069-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,2,2500,,2502,,67.88889569
+2003-0068-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,80,6750,3250,10080,,67.88889569
+2002-0692-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,5,17,65,11000,4000,15065,,66.3819637
+2002-0721-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,19,40,140742,,140782,,66.3819637
+2002-0129-PHL,2002,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,15,100,73351,,73451,2582,66.3819637
+2002-0122-PAK,2002,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,3,,,,,,66.3819637
+2003-0236-AFG,2003,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,5,1,1,,1000,1001,,67.88889569
+2004-0436-AFG,2004,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,2,40,,1000,1040,,69.70644216
+2003-0452-BGD,2003,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,2,25,2500,,2525,,67.88889569
+2003-0254-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,1,7,100,140,247,,67.88889569
+2003-0414-IDN,2003,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,500,,500,,67.88889569
+2003-0322-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,1,1090,,1091,,67.88889569
+2003-0438-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,25,,17500,17525,31914,67.88889569
+2003-0630-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,26796,22628,200000,45000,267628,736497,67.88889569
+2003-0649-IRN,2003,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,5,710,10,725,,67.88889569
+2004-0040-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Fire,,7,37,682,13390,,14072,1435,69.70644216
+2004-0607-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Fire,,7,32,213,12620,,12833,78902,69.70644216
+2004-0562-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,8,33,311,83070,,83381,,69.70644216
+2004-0234-IRN,2004,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,35,278,220,,498,236707,69.70644216
+2004-0659-IDN,2004,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,165708,,,532898,532898,6386210,69.70644216
+2004-0659-BGD,2004,Earthquake,Tsunami,Bangladesh,Southern Asia,Asia,,,9,2,,,,,717294,69.70644216
+2004-0001-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,40,30000,,30040,17215,69.70644216
+2004-0088-IDN,2004,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,5,7,500,,507,,69.70644216
+2004-0659-IND,2004,Earthquake,Tsunami,India,Southern Asia,Asia,,,9,16389,6913,647599,,654512,1467296,69.70644216
+2004-0659-LKA,2004,Earthquake,Tsunami,Sri Lanka,Southern Asia,Asia,,,9,35399,23176,516130,480000,1019306,1888635,69.70644216
+2005-0160-IDN,2005,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,915,1146,104167,,105313,,72.07141045
+2005-0031-IDN,2005,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,4,680,,684,,72.07141045
+2005-0016-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,110,,,110,,72.07141045
+2005-0092-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,612,1411,93355,,94766,111001,72.07141045
+2004-0054-PAK,2004,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,24,63,10765,2320,13148,,69.70644216
+2004-0659-MDV,2004,Earthquake,Tsunami,Maldives,Southern Asia,Asia,Tsunami/Tidal wave,,9,102,2214,12000,13000,27214,674400,69.70644216
+2004-0659-MYS,2004,Earthquake,Tsunami,Malaysia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,80,767,,4296,5063,717294,69.70644216
+2004-0659-THA,2004,Earthquake,Tsunami,Thailand,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,8345,8457,58550,,67007,1434588,69.70644216
+2004-0659-MMR,2004,Earthquake,Tsunami,Myanmar,South-Eastern Asia,Asia,,,9,71,,12500,3200,15700,717294,69.70644216
+2005-0575-AFG,2005,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,8,1,,,,,69,72.07141045
+2005-0686-AFG,2005,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,7,5,1,500,,501,,72.07141045
+2006-0405-AFG,2006,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,1,,740,195,935,,74.39638749
+2005-0575-IND,2005,Earthquake,Ground movement,India,Southern Asia,Asia,Fire,,8,1309,6622,,150000,156622,1387513,72.07141045
+2005-0654-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,13,100,,,100,,72.07141045
+2005-0738-IRN,2005,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,,21912,,21912,,72.07141045
+2006-0678-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,8,200,1000,,1200,,74.39638749
+2006-0231-IDN,2006,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,3,2,1200,,1202,,74.39638749
+2006-0279-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,5778,137883,2340745,699295,3177923,4166869,74.39638749
+2006-0705-IDN,2006,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,14,,100,114,,74.39638749
+2006-0372-IDN,2006,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,,,8,802,543,35000,,35543,73928,74.39638749
+2006-0123-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,6,7000,,7006,,74.39638749
+2006-0153-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,63,1418,160000,,161418,56807,74.39638749
+2006-0239-IRN,2006,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,70,,,70,,74.39638749
+2005-0575-PAK,2005,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,73338,128309,,5000000,5128309,7215066,72.07141045
+2007-0440-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,25,82,422685,36800,459567,653435,76.5186792
+2007-0087-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,67,826,136834,,137660,261374,76.5186792
+2007-0485-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,,19,450,,469,,76.5186792
+2007-0565-IDN,2007,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,1800,20000,,21800,,76.5186792
+2008-0071-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,3,25,,,25,,79.4563044
+2008-0403-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,2,60,565,,625,,79.4563044
+2008-0536-IDN,2008,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,6,77,10000,,10077,,79.4563044
+2009-0156-AFG,2009,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,22,59,,3250,3309,,79.17380276
+2009-0001-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,8,5,250,4000,,4250,12630,79.17380276
+2009-0112-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,64,2985,,3049,11367,79.17380276
+2008-0500-PAK,2008,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,166,320,75000,,75320,12586,79.4563044
+2008-0178-IRN,2008,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,170,,,170,,79.4563044
+2008-0401-IRN,2008,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,45,20500,,20545,,79.4563044
+2009-0421-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",Tsunami/Tidal wave,7,1195,1798,2500000,,2501798,2778697,79.17380276
+2009-0354-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,128,1442,338350,,339792,202087,79.17380276
+2009-0406-BTN,2009,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,8,11,12,,,12,,79.17380276
+2009-0479-IDN,2009,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,8,2,100,1410,,1510,3069,79.17380276
+2009-0493-IRN,2009,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,269,,,269,,79.17380276
+2010-0669-AFG,2010,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,11,70,,1000,1070,,80.47228515
+2010-0238-IDN,2010,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,17,,,4600,4600,,80.47228515
+2010-0563-IDN,2010,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,8,530,412,11452,,11864,,80.47228515
+2010-0018-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,,750,,750,,80.47228515
+2010-0361-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,274,,,274,,80.47228515
+2010-0363-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,32,,,32,,80.47228515
+2010-0591-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,104,,,104,,80.47228515
+2010-0645-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,7,25,,,25,,80.47228515
+2010-0672-IRN,2010,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,3,100,,3500,3600,,80.47228515
+2011-0082-IDN,2011,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,9,1,,,95,95,,83.01267439
+2009-0404-PHL,2009,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,2,380,10,392,114,79.17380276
+2011-0090-MMR,2011,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,,,7,74,125,18000,3152,21277,4337,83.01267439
+2011-0104-PAK,2011,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,2,,1000,,1000,,83.01267439
+2011-0090-THA,2011,Earthquake,Ground movement,Thailand,South-Eastern Asia,Asia,,,7,1,16,,,16,,83.01267439
+2011-0351-IND,2011,Earthquake,Ground movement,India,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,7,112,200,500000,75000,575200,,83.01267439
+2011-0351-BTN,2011,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,7,1,16,20000,,20016,,83.01267439
+2011-0389-IDN,2011,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,10,,,,,7047,83.01267439
+2012-0164-AFG,2012,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,73,2,,235,237,,84.7304789
+2012-0097-IDN,2012,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,9,7,107,,,107,,84.7304789
+2012-0398-IDN,2012,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,6,43,5485,2355,7883,,84.7304789
+2012-0049-IND,2012,Mass movement (dry),Avalanche,India,Southern Asia,Asia,,,,16,,,,,,84.7304789
+2013-0235-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,48,2532,53403,,55935,151213,85.97164225
+2013-0151-AFG,2013,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,18,141,3390,,3531,,85.97164225
+2013-0020-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,15,500,,515,,85.97164225
+2013-0436-IDN,2013,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,1,3,2735,,2738,,85.97164225
+2013-0140-IND,2013,Earthquake,Ground movement,India,Southern Asia,Asia,,,6,3,70,59280,,59350,139581,85.97164225
+2011-0351-NPL,2011,Earthquake,Ground movement,Nepal,Southern Asia,Asia,,,7,7,89,167860,,167949,,83.01267439
+2011-0445-PHL,2011,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,5,,3,25,,28,,83.01267439
+2012-0417-MMR,2012,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,38,231,1255,,1486,1381,84.7304789
+2012-0031-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,7,113,112,320165,,320277,10504,84.7304789
+2012-0275-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,306,2006,59540,,61546,590106,84.7304789
+2012-0502-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,23,5500,,5523,,84.7304789
+2012-0597-IRN,2012,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,,238,,,238,,84.7304789
+2012-0321-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,1,4000,,4001,,84.7304789
+2012-0431-PHL,2012,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,8,1,10,28869,,28879,3829,84.7304789
+2013-0098-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,37,850,3500,,4350,697905,85.97164225
+2013-0099-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,8,,27,,,27,,85.97164225
+2013-0516-IRN,2013,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,8,120,,1500,1620,,85.97164225
+2013-0099-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,41,175,15000,,15175,,85.97164225
+2013-0381-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,399,599,185150,,185749,116317,85.97164225
+2013-0484-PAK,2013,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,22,50,,,50,,85.97164225
+2013-0395-PHL,2013,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,230,976,3221248,,3222224,59856,85.97164225
+2015-0476-AFG,2015,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,8,115,58080,,34645,92725,,87.46993221
+2015-0571-AFG,2015,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,6,,12,,395,407,,87.46993221
+2015-0144-BGD,2015,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,,,8,4,200,,,200,,87.46993221
+2016-0002-BGD,2016,Earthquake,Ground movement,Bangladesh,Southern Asia,Asia,,,7,5,70,,,70,,88.57345288
+2014-0054-IRN,2014,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,1,30,300,,330,2289,87.36629784
+2014-0287-IRN,2014,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,250,,12000,12250,49218,87.36629784
+2014-0159-THA,2014,Earthquake,Ground movement,Thailand,South-Eastern Asia,Asia,,,6,1,23,17500,,17523,70966,87.36629784
+2015-0216-MYS,2015,Earthquake,Ground movement,Malaysia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,24,10,,,10,2,87.46993221
+2015-0144-NPL,2015,Earthquake,Ground movement,Nepal,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,8,8831,17932,5621790,,5639722,5915176,87.46993221
+2015-0175-NPL,2015,Earthquake,Ground movement,Nepal,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,7,138,2428,,,2428,,87.46993221
+2015-0415-IDN,2015,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,62,12185,,12247,,87.46993221
+2015-0144-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,8,78,560,,,560,,87.46993221
+2015-0175-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,7,20,,,,,,87.46993221
+2015-0476-IND,2015,Earthquake,Ground movement,India,Southern Asia,Asia,,,8,,10,,,10,,87.46993221
+2015-0476-PAK,2015,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,8,280,1745,366945,133900,502590,,87.46993221
+2015-0571-PAK,2015,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,3,85,,,85,,87.46993221
+2015-0454-PAK,2015,Mass movement (dry),Rockfall,Pakistan,Southern Asia,Asia,,,,13,,,,,,87.46993221
+2016-0019-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,8,360,,368,,88.57345288
+2016-0002-IND,2016,Earthquake,Ground movement,India,Southern Asia,Asia,,,7,8,308,10500,,10808,84675,88.57345288
+2016-0100-PAK,2016,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,7,6,42,100,,142,,88.57345288
+2015-0608-TLS,2015,Earthquake,Ground movement,Timor-Leste,South-Eastern Asia,Asia,,,7,,3,,2000,2003,4573,87.46993221
+2016-0458-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,3410,,3410,,88.57345288
+2016-0475-IDN,2016,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,104,857,85161,,86018,112901,88.57345288
+2016-0383-MMR,2016,Earthquake,Ground movement,Myanmar,South-Eastern Asia,Asia,,,7,4,2,1150,,1152,11290,88.57345288
+2016-0537-PHL,2016,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,8,202,,,202,,88.57345288
+2017-0140-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,,,25000,,25000,2211,90.46017931
+2017-0530-IDN,2017,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,4,36,8859,,8895,,90.46017931
+2017-0204-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,3,417,,1845,2262,2211,90.46017931
+2017-0446-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,7,444,9000,200000,,209000,818040,90.46017931
+2017-0521-IRN,2017,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,5,2,120,,,120,,90.46017931
+2017-0050-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,8,202,16655,,16857,15448,90.46017931
+2017-0247-PHL,2017,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,3,448,16052,,16500,4824,90.46017931
+2018-0352-IDN,2018,Earthquake,Tsunami,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,Liquefaction,8,4140,,2000000,,2000000,1564697,92.6696698
+2018-0257-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,564,1584,445343,70000,516927,852490,92.6696698
+2018-0031-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,1,11,13800,,13811,86328,92.6696698
+2018-0254-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,14,135,102717,,102852,31294,92.6696698
+2018-0302-IDN,2018,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,10,24,755,,779,5396,92.6696698
+2018-0281-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,287,4755,,5042,10791,92.6696698
+2018-0310-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,2,255,10000,3000,13255,,92.6696698
+2018-0426-IRN,2018,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,716,,,716,10791,92.6696698
+2018-0154-MMR,2018,Mass movement (dry),Landslide,Myanmar,South-Eastern Asia,Asia,,,,17,,,,,,92.6696698
+2019-0085-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,,48,1715,,1763,,94.3490925
+2019-0109-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,9,45,1250,,1295,,94.3490925
+2019-0162-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,25,282,15273,,15555,52995,94.3490925
+2021-0225-BTN,2021,Earthquake,Ground movement,Bhutan,Southern Asia,Asia,,,6,,2,500,,502,,100
+2022-0027-AFG,2022,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,,,5,28,4,,4000,4004,,
+2019-0334-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,7,8,134,5790,5880,11804,,94.3490925
+2019-0377-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,6,4,2100,,2104,,94.3490925
+2019-0451-IDN,2019,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,31,179,247239,,247418,,94.3490925
+2019-0299-IRN,2019,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,100,,2000,2100,,94.3490925
+2019-0553-IRN,2019,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,6,584,22500,,23084,95390,94.3490925
+2019-0460-PAK,2019,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,,,6,39,746,129652,,130398,18018,94.3490925
+2019-0356-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,,52,9525,,9577,,94.3490925
+2019-0362-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,9,64,2963,,3027,5573,94.3490925
+2019-0489-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,6,7,215,3068,,3283,,94.3490925
+2019-0522-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,10,395,25630,,26025,,94.3490925
+2019-0529-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,23,417,260286,,260703,,94.3490925
+2019-0619-PHL,2019,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,14,210,394355,,394565,,94.3490925
+2020-0225-IDN,2020,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,,1490,70,1560,,95.51296742
+2020-0073-IRN,2020,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,75,15000,,15075,,95.51296742
+2020-0370-PHL,2020,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,Asia,,,7,1,20,4255,705,4980,2617,95.51296742
+2021-0003-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,"Slide (land, mud, snow, rock)",,6,110,826,99827,,100653,58700,100
+2021-0654-PAK,2021,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,"Slide (land, mud, snow, rock)",,6,21,300,63800,,64100,,100
+2021-0323-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,Tsunami/Tidal wave,,6,,,750,,750,,100
+2021-0200-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,9,39,5520,420,5979,,100
+2021-0720-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,5,3,82,2620,1830,4532,,100
+2021-0801-IDN,2021,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,7,1730,,1737,,100
+2021-0225-IND,2021,Earthquake,Ground movement,India,Southern Asia,Asia,,,6,2,10,3000,,3010,,100
+2021-0095-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,2,63,24291,,24354,10000,100
+2021-0215-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,,6,3537,,3543,,100
+2021-0738-IRN,2021,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,,,6,1,104,36484,,36588,165000,100
+2021-0829-LAO,2021,Earthquake,Ground movement,Lao People's Democratic Republic (the),South-Eastern Asia,Asia,,,6,,,,,,120,100
+2022-0012-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,,2,300,,302,,
+2022-0042-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,7,,1975,13415,,15390,,
+2022-0115-IDN,2022,Earthquake,Ground movement,Indonesia,South-Eastern Asia,Asia,,,6,15,388,24000,515,24903,,
